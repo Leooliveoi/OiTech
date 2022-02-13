@@ -1,0 +1,133 @@
+<!--Footer-->
+		<footer class="footer-body">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col col-lg-3 col-12">
+						<div class="footer-brand">
+							<a href="../index.html"><img src="../_img/Logo_Oitech_REV2.png" alt="OiTech Logo"></a>
+						</div>
+					</div>
+
+					<div class="col col-lg-9 col-12">
+						<div class="footer-content">
+							<div class="container">
+								<div class="row">
+
+									<!--Footer lado 1esquerdo-->
+									<div class="col col-lg-4 col-12 footer-content-sub">
+
+										<h6> <a href="../Categorias/index.html"> Conteudos </a> </h6>
+
+										<ul class="list-group">
+
+											<!--Item 1-->
+											<a href="../Categorias/index.html#">
+												<li class="list-group-item bg-footer-item-list">
+													Tecnologia									
+												</li>
+											</a>
+
+											<!--Item 2-->
+											<a href="../Categorias/index.html#">
+												<li class="list-group-item bg-footer-item-list">
+
+													Programação
+
+												</li>
+											</a>
+
+
+											<!--Item 3-->
+											<a href="../Categorias/index.html#">
+												<li class="list-group-item bg-footer-item-list">
+
+													Profissões
+
+												</li>
+											</a>
+
+										</ul>
+									</div>
+
+									<!--Footer lado meio-->
+									<div class="col col-lg-4 col-12 footer-content-sub">
+
+										<h6> <a href="../Produtos/index.html"> Produtos </a> </h6>
+
+										<ul class="list-group">
+
+											<!--Item 1-->
+											<a href="../Produtos/index.html#">
+												<li class="list-group-item bg-footer-item-list">
+													Cursos
+												</li>
+											</a>
+
+											<!--Item 2-->
+											<a href="../Produtos/index.html#">
+												<li class="list-group-item bg-footer-item-list">
+													Livros
+												</li>
+											</a>
+
+
+										</ul>
+									</div>
+
+									<!--Footer lado direito-->
+									<div class="col col-lg-4 col-12 footer-content-sub">
+
+										<h6> <a href="../Tutoriais/index.html"> Tutoriais </a> </h6>
+
+										<ul class="list-group">
+											<!--Item 1-->
+											<a href="../Tutoriais/index.html#">
+
+												<li class="list-group-item bg-footer-item-list">
+
+													Programação
+
+												</li>
+											</a>
+
+											<!--Item 2-->
+											<a href="../Tutoriais/index.html#">
+
+												<li class="list-group-item bg-footer-item-list">
+
+													Configuração
+
+												</li>
+											</a>
+
+											<!--Item 3-->
+											<a href="../Tutoriais/index.html#">
+
+												<li class="list-group-item bg-footer-item-list">
+
+													Dicas
+
+												</li>
+											</a>
+
+										</ul>
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<h9 style="font-size: 10px; font-family: cursive; opacity: 50%; text-align: center;">Created by : Leonardo O. Oi</h9>
+							<h9 style="font-size: 10px; font-family: cursive; opacity: 50%; text-align: center;">&#95;OiTech V1.0</h9>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</footer>
+		<!--Fim Footer-->

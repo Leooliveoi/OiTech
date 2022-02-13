@@ -1,0 +1,154 @@
+HTML
+Versão 1
+<div class="container-fluid content-block">
+	<a href="#">
+		<div class="container-fluid content-block-block">
+
+			<div class="row">
+				<div class="col col-lg-12 col-12 content-block-brand">
+					<img src="_img/Logo_Oitech.png" width="140" height="140">
+				</div>
+
+				<div class="col col-lg-12 col-12 content-block-content">
+					<h3> </h3>
+					<p> </p>
+				</div>
+
+				<div class="col col-6 content-block-date" >
+					<span>Data</span>
+				</div>
+
+				<div class="col col-6 content-block-coment" >
+					<span>Comentarios</span>
+				</div>
+
+				<div class="col col-12 content-block-access" >
+					<span>Acessar</span>
+				</div>
+			</div>
+
+		</div>
+	</a>
+</div>
+
+
+
+
+
+
+
+
+	CSS
+		Desktop
+.content-block{
+	height: auto;
+}
+
+.content-block-block{
+	height: auto;
+	width: 100%;
+	margin-bottom: 20px;
+	background-image: linear-gradient(to right, rgba(255, 255, 255,0.2), rgba(255, 255, 255,0.5));
+	box-shadow: 8px 8px 10px 0px rgba(0,0,0,0.2);
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	opacity: 90%;
+}
+
+.content-block-block:hover{
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-ms-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	box-shadow: 15px 15px 10px 0px rgba(0,0,0,0.3);
+	background-image: linear-gradient(to left, rgba(61, 109, 239,0.5), rgba(143, 173, 254,0.2));
+	opacity: 90%;
+	color: rgba(0,0,0,2);   
+	position: relative;
+
+}
+
+.content-block a{
+	text-decoration: none;
+	color: black;
+}
+
+.content a:hover{
+	text-decoration: none;
+}
+
+.content-block-brand{
+	height: 140px;
+	width: 140px;
+	border-radius: 100px;
+	background-color:transparent;
+	margin-bottom: 25px;
+}
+
+.content-block-brand img{
+	height: 140px;
+	width: 140px;
+	border-radius: 50px;
+	background-color: transparent;
+	box-shadow: 10px 5px 10px 0px rgba(0,0,0,0.2);
+	margin-bottom: 50px;
+	justify-content: center;
+}
+
+.content-block-content{
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-bottom: 10px;
+}
+
+.content-block-date{
+	text-align: center;
+	width: 100%;
+	background-color: orange;
+	height: 25px;
+	font-weight: bold;
+}
+
+.content-block-coment{
+	text-align: center;
+	width: 90%;
+	background-color: cadetblue;
+	height: 25px;
+	z-index: -5;
+	font-weight: bold;
+}
+
+.content-block-access{
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	background: green
+	
+}
+
+
+		Mobile 425PX
+	
+.content-block{
+		height: auto;
+	}
+
+	.content-block-block{
+		height: auto;
+		width: 100%;
+		margin-bottom: 20px;
+		box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+		border-radius: 30px;
+		background-color: rgba(255,255,255,0.5);
+	}
+
+
+	.content-block-brand{
+		margin-bottom: 10px
+	}
+
+
+
+/*Fim CSS Conteudos*/
